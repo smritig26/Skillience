@@ -50,6 +50,7 @@
     "autoprefixer": "^10.4.21",
     "eslint": "^9",
     "eslint-config-next": "15.2.2",
+    "netlify-plugin-inngest": "^1.0.1",
     "postcss": "^8.5.3",
     "postcss-color-function": "^4.1.0",
     "prisma": "^6.5.0",
