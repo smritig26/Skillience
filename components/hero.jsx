@@ -25,22 +25,21 @@ const HeroSection = () => {
         <div className="space-y-6 text-center">
             <div className="space-y-6 mx-auto">
                 <h1 className="text-5xl font-bold md:text-6xl lg:text-7xl xl:text-8xl gradient-title">
-                    Your AI Career Coach for
+                Unlock Your Full Potential
                     <br />
-                    Professional Success
+                    with Skillience
                 </h1>
                 <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl">
-                    Advance you career with personalized guidance, interview prep, and
-                    AI powered tools for job success.
+                Your job success partner - offering AI-enhanced career coaching, content generation, and market insights.
                 </p>
             </div>
             <div className="flex justify-center space-x-4">
-                <Link href='/dashboard'>
+                {/* <Link href='/dashboard'>
                 <Button size="lg" className="px-8">Get Started</Button>
                 </Link>
                 <Link href='https://www.youtube.com/roadsidecoder'>
                 <Button size="lg" className="px-8" variant="outline">Get Started</Button>
-                </Link>
+                </Link> */}
             </div>
 
             <div className="hero-image-wrapper mt-5 md:mt-0">
